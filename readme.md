@@ -1,3 +1,3 @@
-Um repositório que conta um pouco sobre mim
+Um repositÃ³rio que conta um pouco sobre mim
 
-[Linkedin](https://www.linkedin.com/in/brunodeuner/)
+[Linkedin](https://www.linkedin.com/in/bruno-deuner)
